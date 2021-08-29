@@ -1,0 +1,42 @@
+h1 {
+    color: red;
+}
+
+#numberDiv {
+    display: flex;
+    justify-content: center;
+}
+
+#number {
+    color: rgb(140, 67, 207);
+    background-color: white;
+    max-width: 40em;
+    justify-content: center;
+    border-radius: 15px;
+    padding: 5px;
+    /* font-size: 72px; */
+}
+
+#background {
+    background-image: url('Disknee.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    display: grid;
+}
+
+#andThen {
+    display: flex;
+    justify-content: center;
+}
+
+#disney {
+    justify-content: center;
+    max-width: 40em;
+    background-color: white;
+    justify-content: center;
+    border-radius: 15px;
+    padding: 5px;
+    /* font-size: 72px; */
+}
