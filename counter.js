@@ -1,5 +1,5 @@
 // Set the date we're counting down to
-const countDownDate = new Date("Oct 25, 2021 00:00:00").getTime();
+const countDownDate = new Date("Dec 25, 2021 00:00:00").getTime();
 
 // Update the count down every 1 second
 const x = setInterval(function() {
@@ -17,7 +17,7 @@ const x = setInterval(function() {
   const seconds = Math.floor((distance % (1000 * 60)) / 1000);
     
   // Output the result in an element with id="demo"
-  document.getElementById("number").innerHTML = days + " lslsl" + " days " + hours + " hours "
+  document.getElementById("number").innerHTML = days + " days " + hours + " hours "
   + minutes + " minutes " + " and " + seconds + " seconds...";
     
   // If the count down is over, write some text 
