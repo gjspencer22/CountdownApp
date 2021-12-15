@@ -1,6 +1,7 @@
 // Set the date we're counting down to
 const countDownDate = new Date("Dec 25, 2021 00:00:00").getTime();
-
+// document.getElementById("userInput")
+// Date = 'userInput'
 // Update the count down every 1 second
 const x = setInterval(function() {
 
