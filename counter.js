@@ -1,7 +1,7 @@
 // Set the date we're counting down to
-const countDownDate = new Date("Dec 25, 2021 00:00:00").getTime();
+const countDownDate = new Date("Nov 14, 2022 00:00:00").getTime();
 // document.getElementById("userInput")
-// Date = 'userInput'
+// Date = "userInput"
 // Update the count down every 1 second
 const x = setInterval(function() {
 
@@ -24,7 +24,7 @@ const x = setInterval(function() {
   // If the count down is over, write some text 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("number").innerHTML = "Merry Christmas";
+    document.getElementById("number").innerHTML = "Let The Magic Happen!";
     document.getElementById("disney").innerHTML = "";
   }
 }, 1000);
