@@ -28,3 +28,23 @@ const x = setInterval(function() {
     document.getElementById("disney").innerHTML = "";
   }
 }, 1000);
+
+
+
+
+
+
+
+
+// var body = document.body;
+// var currentPos = 0;
+// var images = ["./CAdventrue.jpg"]  //replace this with array of your images
+
+// function changeBg() {
+//   if (++currentPos >= images.length)
+//     currentPos = 0;
+
+//   body.style.backgroundImage = `url(${images[currentPos]})`;
+// }
+
+// setInterval(changeBg, 1);

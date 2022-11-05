@@ -14,12 +14,12 @@ h1 {
     justify-content: center;
     border-radius: 15px;
     padding: 5px;
-    box-shadow: 20px 20px 50px 10px rgb(203, 93, 108) inset
+    box-shadow: 20px 20px 50px 10px rgb(133, 93, 203) inset
     /* font-size: 72px; */
 }
 
 #background {
-    background-image: url('CAdventure.jpg');
+    background-image: url('DisneyParis.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -39,6 +39,7 @@ h1 {
     justify-content: center;
     border-radius: 15px;
     padding: 5px;
-    box-shadow: 20px 20px 50px 10px rgb(131, 203, 93) inset
+    box-shadow: 20px 20px 50px 10px rgb(93, 131, 203) inset
     /* font-size: 72px; */
 }
+
